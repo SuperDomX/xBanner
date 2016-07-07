@@ -7,11 +7,11 @@
  * @icon billboard.png
  * @mini desktop
  * @price $5
- * @see navigate
+ * @see construct 
  * @link banner
  * @todo
+ * @alpha true
  */
-
 
 	class xBanner extends Xengine{
 		 
