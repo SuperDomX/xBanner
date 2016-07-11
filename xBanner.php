@@ -2,8 +2,8 @@
 /**
  * @name Banners
  * @desc Dynamic Banners for Specify Effects.
- * @version v0.1.08.23.03.01
- * @author cdpollard@gmail.com
+ * @version v0.1(160710)
+ * @author  @xopherdeep
  * @icon billboard.png
  * @mini desktop
  * @price $5
